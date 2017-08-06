@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
+|Name|ふー　ばー (Foo Bar)|
 |Blog|[ふーばーブログ](http://foobar.blog.com)|
 |Twitter|[@foobar](https://twitter.com/foobar)|
 |Qiita|[foobar](http://qiita.com/foobar)|
