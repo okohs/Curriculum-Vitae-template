@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|池澤　涼太 (Ikezawa Ryota))|
+|Name|池澤　涼太 (Ikezawa Ryota)|
 |Blog|[Medium](https://medium.com/@pavegy/latest)|
 |Twitter|[@cuz_r](https://twitter.com/cuz_r)|
 |Qiita|[paveg](https://qiita.com/paveg)|
