@@ -4,34 +4,46 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|池澤　涼太 (Ikezawa Ryota))|
+|Blog|[Medium](https://medium.com/@pavegy/latest)|
+|Twitter|[@cuz_r](https://twitter.com/cuz_r)|
+|Qiita|[paveg](https://qiita.com/paveg)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
+  - Ruby(3年)
+    - メインで使っている言語
+  - Golang(半年)
+    - ここ半年程度触る機会が増えた
+  - Javascript(2年)
+    - あまり得意ではないが、抵抗はない。画面作るときに書いていた
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - ライブラリや言語のリファレンスがリーディングできる程度
+  - 今後もう少し力を入れたい
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- Ruby On Rails(4系)
+- React.js（少し）
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- アジャイル開発経験（約2年半）
+- スクラム開発経験（約半年）
 
 ## 強み
+
+- 細かいタスクの巻き取り
+  - タスクの並列処理
+- 品質
+  - ユニットテストは意識して書く
+  - 静的解析器等を社内サービスに入れたりはノリでやったりしました
 
 ## やったことはないが興味があるもの
 
@@ -47,22 +59,33 @@
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2015/11 - : freee株式会社
 
-職務: Webアプリケーションエンジニア（例）
+職務: Webアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### アカウントアグリゲーションサービスの開発・運用 (2015/11 - 2017/11, 2018/06 - )
 
-- 職務内容の詳細を箇条書きでかく
+- 運用（バグ修正・問い合わせ対応）
+  - Ruby, Mysql, Ruby On Rails
+  - 運用チームの外部委託化
+- 開発
+  - Ruby, Ruby On Rails, HTML5, CSS3, Javascript(Backbone, WebView, React)
 
-#### 職務内容の名前（レストラン検索とか）
+#### アカウントアグリゲーションサービスの開発（新規）(2017/11 -)
 
-- 職務内容の詳細を箇条書きでかく
+- 開発
+  - Golang, Ruby, Mysql, grpc, Javascript, Ruby on Rails
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### プロジェクトマネジメント(2018/06 -)
 
-職務: サーバーサイドエンジニア
+- 外部連携
 
-#### 職務内容の名前（レストラン検索とか）
+### 2015/04 - 2015/10: エクストップテクノロジー株式会社
 
-- 職務内容の詳細を箇条書きでかく
+職務: ネットワークエンジニア
+
+#### 社内ネットワークの構築・設計・保守
+
+- 社内ネットワークの構築
+- 社内ネットワークの保守
+- サーバー監視
