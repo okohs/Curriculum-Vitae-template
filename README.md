@@ -4,12 +4,9 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|ssr3104|
+|Twitter|[@ssr3104](https://twitter.com/ssr3104)|
+|Qiita|[ssr31-4](http://qiita.com/ssr3104)|
 
 ## スキル
 
@@ -19,8 +16,6 @@
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
 
 ### フレームワーク
 
@@ -47,9 +42,9 @@
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2012/04 - : 会社名
 
-職務: Webアプリケーションエンジニア（例）
+職務: システムエンジニア
 
 #### 職務内容の名前（レストラン検索とか）
 
