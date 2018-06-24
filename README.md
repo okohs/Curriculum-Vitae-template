@@ -11,6 +11,27 @@
 ## スキル
 
 - AWS
+  - EC2
+  - EBS
+  - S3
+  - Glacier
+  - RDS
+    - Aurora
+    - MySQL
+  - ElastiCache
+    - memcached
+    - Redis
+  - VPC
+  - CloudFront
+  - Route 53
+  - CloudWatch
+  - CloudTrail
+  - IAM
+  - AWS Certificate Manager
+  - Auto Scaling
+  - Elastic Load Balancing
+    - Application Load Balancer
+    - Classic Load Balancer
 - Linux
 
 ### 言語
