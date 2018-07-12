@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|ミイホン　あに (Miihon brother))|
-|Blog|あさつきのうたげ(http://asatsuki.netgamers.jp)|
+|Blog|趣味サイト：あさつきのうたげ(http://asatsuki.netgamers.jp)|
 |Twitter|[@miihon_ani](https://twitter.com/miihon_ani)|
 |Qiita|[miihon_ani](https://qiita.com/miihon_ani)|
 |SlideShare|なし|
