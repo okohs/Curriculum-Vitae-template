@@ -59,7 +59,7 @@
 - ITエンジニアのための”アニメ”から学びを得る勉強会 | あにべん！
 - JAWS-UG 初心者支部#13　「AWS Night school」
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
-- Amazon Game Tech Night #6 ~GameSparksハンズオン~
+- Amazon Game Tech Night #6 ～GameSparksハンズオン～
 
 ## 職務経歴
 
