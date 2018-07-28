@@ -1,0 +1,23 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "## curriculum vitae",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paveg/curriculum-vitae.git"
+  },
+  "author": "paveg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paveg/curriculum-vitae/issues"
+  },
+  "homepage": "https://github.com/paveg/curriculum-vitae#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "markdownlint": "^0.11.0",
+    "markdownlint-cli": "^0.11.0"
+  }
+}

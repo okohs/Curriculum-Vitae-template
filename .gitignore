@@ -1,0 +1,7 @@
+# for npm tools
+node_modules/
+package-lock.json
+
+# for Intellij IDEA
+.idea/
+
