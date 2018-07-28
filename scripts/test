@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Check your README.md..."
+`./node_modules/markdownlint-cli/markdownlint.js README.md`
+
