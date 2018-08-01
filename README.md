@@ -64,6 +64,7 @@
 - JAWS-UG 初心者支部#13　「AWS Night school」
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
 - Amazon Game Tech Night #6 ～GameSparksハンズオン～
+- AWS Summit Tokyo 2018
 
 ## 職務経歴
 
