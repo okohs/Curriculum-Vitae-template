@@ -12,6 +12,7 @@
   - EC2
   - EBS
   - S3
+  - Lambda
   - RDS
     - Aurora
     - MySQL
@@ -40,6 +41,7 @@
 - C
 - Java
 - Python
+  - https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop
 
 - 日本語
   - ネイティブ
