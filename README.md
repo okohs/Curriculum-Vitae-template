@@ -2,9 +2,11 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|Satoshi Shinohara|
+| key      | value                                       |
+|----------|---------------------------------------------|
+| Name     | Satoshi Shinohara                           |
+| Qiita    | https://qiita.com/SatoshiShinohara          |
+| connpass | https://connpass.com/user/shinoharasatoshi/ |
 
 ## スキル
 
