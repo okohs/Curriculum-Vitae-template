@@ -65,6 +65,11 @@
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
 - Amazon Game Tech Night #6 ～GameSparksハンズオン～
 - AWS Summit Tokyo 2018
+  - AWSを使った動画配信入門
+  - AWS CLI/SDK入門
+  - Codeシリーズを利用したパイプラインの自動化入門
+  - ゲームのバックエンドを支えるスケーラブルかつ柔軟なAWSでのインフラ構築
+  - 今すぐ実現できるゲームのクラウド対応 ～GameSparksとAmazon GameLiftでユーザー動向に即応～
 
 ## 職務経歴
 
