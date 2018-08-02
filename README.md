@@ -35,6 +35,11 @@
   - Apache
   - Nginx
   - Zabbix
+  - MySQL
+  - memcached
+  - Redis
+  - WordPress
+  - daemontools
   - Keepalived
   
 ### 言語
@@ -75,9 +80,13 @@
 
 ### 2017/11 - : 株式会社 ケイブ
 
+https://www.cave.co.jp/
+
 職務: インフラエンジニア
 
 #### ゴシックは魔法乙女～さっさと契約しなさい！～
+
+https://gomaotsu.jp/
 
 - AWSでの運用・保守
 - Amazon CloudWatchを用いたサービスの監視
@@ -89,6 +98,8 @@
 - 公式Webサイトの運用・保守
 
 #### 三極ジャスティス
+
+https://3jus.jp/
 
 - GMOアプリクラウドでの構築・運用・保守
 - Zabbixを用いたサービスの監視
@@ -107,24 +118,32 @@
 
 #### ロードオブダンジョン
 
-- 公式Webサイトの運用・保守
+https://lod.cave.co.jp/
 
+- 公式Webサイトの運用・保守
+ 
 #### けもみみメロメロれしぴ〜愛の汗だくレストラン
 
-- 公式Webサイトの運用・保守
+https://kemomimi.cave.co.jp/
+
 - ベンダーコントロール
+- 公式Webサイトの運用・保守
 
 #### 社内インフラ
 
-- 公式サイト（WordPress）移行検証
+- 社内ポータルサイト（WordPress）移行検証
 - Akamai Enterprise Threat Protectorの導入
 - 社員のID・秘密鍵管理
 
 ### 2012/04 - 2017/09: 株式会社 日立システムズエンジニアリングサービス
 
+http://www.hitachi-systems-es.co.jp/
+
 職務: システムエンジニア
 
 #### 全国共済農業協同組合連合会
+
+http://www.ja-kyosai.or.jp/
 
 - 共済保険システムの構築・運用・保守
 - 統合システム運用管理JP1の設計・構築・運用・保守
@@ -133,6 +152,8 @@
 - ベンダーコントロール
 
 #### 小野薬品工業株式会社
+
+https://www.ono.co.jp/
 
 - 新人・中途採用者向けIT教育
 - 海外出張者向けPCキッティング
