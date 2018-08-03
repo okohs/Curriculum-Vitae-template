@@ -69,6 +69,7 @@
 - JAWS-UG 初心者支部#13　「AWS Night school」
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
 - Amazon Game Tech Night #6 ～GameSparksハンズオン～
+  https://qiita.com/SatoshiShinohara/items/ca6f59d41f607945b57f
 - AWS Summit Tokyo 2018
   - AWSを使った動画配信入門
   - AWS CLI/SDK入門
