@@ -68,6 +68,7 @@
 - ITエンジニアのための”アニメ”から学びを得る勉強会 | あにべん！
 - JAWS-UG 初心者支部#13　「AWS Night school」
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
+  https://qiita.com/SatoshiShinohara/items/d55b8ab1ceb37aa8e7b1
 - Amazon Game Tech Night #6 ～GameSparksハンズオン～
   https://qiita.com/SatoshiShinohara/items/ca6f59d41f607945b57f
 - AWS Summit Tokyo 2018
