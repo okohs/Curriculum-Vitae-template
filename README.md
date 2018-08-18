@@ -22,6 +22,7 @@
     - memcached
     - Redis
   - Route 53
+    - DNS Failover
   - CloudWatch
   - IAM
   - AWS Certificate Manager
@@ -41,6 +42,8 @@
   - WordPress
   - daemontools
   - Keepalived
+- SaaS
+  - Mackerel
   
 ### 言語
 
@@ -48,19 +51,14 @@
 - C
 - Java
 - Python
+  - https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check
   - https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop
-
 - 日本語
   - ネイティブ
-
-### その他
-
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 
 ### やったことはないが興味があるもの
 
 - 構成管理ツール（Ansible）
-- SaaS型監視（mackerel・Datadog）
 - 社内勉強会
 
 ### 社外勉強会参加
@@ -131,10 +129,13 @@ https://kemomimi.cave.co.jp/
 - ベンダーコントロール
 - 公式Webサイトの運用・保守
 
+#### 新規タイトル
+
+- インフラ設計
+
 #### 社内インフラ
 
-- 社内ポータルサイト（WordPress）移行検証
-- Akamai Enterprise Threat Protectorの導入
+- 社内ポータルサイト（WordPress）移行
 - 社員のID・秘密鍵管理
 
 ### 2012/04 - 2017/09: 株式会社 日立システムズエンジニアリングサービス
