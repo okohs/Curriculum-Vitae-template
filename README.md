@@ -63,8 +63,10 @@
 
 ### 社外勉強会参加
 #### 一般枠
+- DevOpsを支える今話題のHashiCorpツール群について
 - ITエンジニアのための”アニメ”から学びを得る勉強会 | あにべん！
 - JAWS-UG 初心者支部#13　「AWS Night school」
+  https://qiita.com/SatoshiShinohara/items/a4a511a2fa09b5a80649
 - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
   https://qiita.com/SatoshiShinohara/items/d55b8ab1ceb37aa8e7b1
 - Amazon Game Tech Night #6 ～GameSparksハンズオン～
