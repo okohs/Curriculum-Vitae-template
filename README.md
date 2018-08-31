@@ -5,6 +5,7 @@
 | key      | value                                       |
 |----------|---------------------------------------------|
 | Name     | Satoshi Shinohara                           |
+| Twitter  | https://twitter.com/infra_chan              |
 | Qiita    | https://qiita.com/SatoshiShinohara          |
 | connpass | https://connpass.com/user/shinoharasatoshi/ |
 
@@ -12,6 +13,7 @@
 
 - AWS
   - EC2
+    - Auto Scaling
   - EBS
   - S3
   - Lambda
@@ -42,6 +44,7 @@
   - WordPress
   - daemontools
   - Keepalived
+  - Redmine
 - SaaS
   - Mackerel
   
@@ -107,7 +110,7 @@ https://3jus.jp/
 - Zabbixを用いたサービスの監視
 - 障害対応
 - 運用効率化のためのシェルスクリプト作成
-- 公式Webサイト・イベント用Webサイトの運用・保守
+- 公式Webサイト・イベント用Webサイトの運用・保守・コスト最適化
 
 #### くにつく
 
@@ -122,7 +125,7 @@ https://3jus.jp/
 
 https://lod.cave.co.jp/
 
-- 公式Webサイトの運用・保守
+- 公式Webサイトの運用・保守・コスト最適化
  
 #### けもみみメロメロれしぴ〜愛の汗だくレストラン
 
