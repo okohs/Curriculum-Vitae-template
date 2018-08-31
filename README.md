@@ -132,7 +132,7 @@ https://lod.cave.co.jp/
 https://kemomimi.cave.co.jp/
 
 - ベンダーコントロール
-- 公式Webサイトの運用・保守
+- 公式Webサイトの運用・保守・コスト最適化
 
 #### 新規タイトル
 
