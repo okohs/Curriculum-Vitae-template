@@ -56,8 +56,6 @@
 - Python
   - https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check
   - https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop
-- 日本語
-  - ネイティブ
 
 ### やったことはないが興味があるもの
 
