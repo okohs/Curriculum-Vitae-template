@@ -4,7 +4,7 @@
 
 | key      | value                                       |
 |----------|---------------------------------------------|
-| Name     | Satoshi Shinohara                           |
+| Name     | 篠原 聡志                                    |
 | Twitter  | https://twitter.com/infra_chan              |
 | Qiita    | https://qiita.com/SatoshiShinohara          |
 | connpass | https://connpass.com/user/shinoharasatoshi/ |
