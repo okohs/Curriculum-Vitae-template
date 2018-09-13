@@ -54,8 +54,8 @@
 - C
 - Java
 - Python
-  - https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check
-  - https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop
+  - [python-aws-lambda-cloudwatch-alarm-check](https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check)
+  - [python-aws-lambda-ec2-start-stop](https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop)
 
 ### やったことはないが興味があるもの
 
@@ -78,9 +78,9 @@
 
 ## 職務経歴
 
-### 2017/11 - : 株式会社 ケイブ
+### 2017/11 - : [株式会社 ケイブ](https://www.cave.co.jp/)
 
-https://www.cave.co.jp/
+
 
 - 業務内容: 趣味性の高いエンターテイメントコンテンツをモバイルメディアをはじめとして企画・制作・運営・マーケティングするエンターテイメント事業
 - 資本金: 	15億4498万3千円
