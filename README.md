@@ -68,7 +68,7 @@
 - Ansible Night in Tokyo 2018.09
 - [DevOpsを支える今話題のHashiCorpツール群について](https://qiita.com/SatoshiShinohara/items/8129ae983efad6e6ac93)
 - ITエンジニアのための”アニメ”から学びを得る勉強会 | あにべん！
-- [JAWS-UG 初心者支部#13　「AWS Night school」](https://qiita.com/SatoshiShinohara/items/a4a511a2fa09b5a80649)
+- [JAWS-UG 初心者支部#13「AWS Night school」](https://qiita.com/SatoshiShinohara/items/a4a511a2fa09b5a80649)
 - [FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会](https://qiita.com/SatoshiShinohara/items/d55b8ab1ceb37aa8e7b1)
 - [Amazon Game Tech Night #6 ～GameSparksハンズオン～](https://qiita.com/SatoshiShinohara/items/ca6f59d41f607945b57f)
 - AWS Summit Tokyo 2018
