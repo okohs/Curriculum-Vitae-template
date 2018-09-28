@@ -2,12 +2,13 @@
 
 ## 基本情報
 
-| key      | value                                       |
-|----------|---------------------------------------------|
-| Name     | Satoshi Shinohara                           |
-| Twitter  | https://twitter.com/infra_chan              |
-| Qiita    | https://qiita.com/SatoshiShinohara          |
-| connpass | https://connpass.com/user/shinoharasatoshi/ |
+| key      | value                                         |
+|----------|-----------------------------------------------|
+| Name     | Satoshi Shinohara                             |
+| Twitter  | https://twitter.com/infra_chan                |
+| Qiita    | https://qiita.com/SatoshiShinohara            |
+| connpass | https://connpass.com/user/shinoharasatoshi/   |
+| LinkedIn | https://www.linkedin.com/in/satoshishinohara/ |
 
 ## スキル
 
