@@ -16,6 +16,7 @@
     - Auto Scaling
   - EBS
   - S3
+  - EFS
   - Lambda
   - RDS
     - Aurora
@@ -31,6 +32,8 @@
   - Elastic Load Balancing
     - Application Load Balancer
     - Classic Load Balancer
+  - VPC
+  - CodeCommit
 - Linux
   - CentOS 5,6,7
   - Amazon Linux 1,2
@@ -42,9 +45,9 @@
   - memcached
   - Redis
   - WordPress
+  - Redmine
   - daemontools
   - Keepalived
-  - Redmine
 - SaaS
   - Mackerel
   
