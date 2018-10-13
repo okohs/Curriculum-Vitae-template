@@ -41,6 +41,7 @@
 - OSS
   - Apache
   - Nginx
+  - Ansible
   - Zabbix
   - MySQL
   - memcached
@@ -61,12 +62,9 @@
   - [python-aws-lambda-cloudwatch-alarm-check](https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check)
   - [python-aws-lambda-ec2-start-stop](https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop)
 
-### やったことはないが興味があるもの
-
-- 社内勉強会
-
 ### 社外セミナー・勉強会への参加、社内へのフィードバック
 #### 一般枠
+- Ansibleもくもく会 （サーバ編）2018.10
 - JAWS-UG 初心者支部#14「AWS Night school & LT」
 - [Ansible Night in Tokyo 2018.09](https://qiita.com/SatoshiShinohara/items/5de45822b2d3ba47f9fa)
 - [DevOpsを支える今話題のHashiCorpツール群について](https://qiita.com/SatoshiShinohara/items/8129ae983efad6e6ac93)
