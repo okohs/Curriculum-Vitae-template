@@ -65,7 +65,7 @@
 ### 社外セミナー・勉強会への参加、社内へのフィードバック
 #### 一般枠
 - Ansibleもくもく会 （サーバ編）2018.10
-- JAWS-UG 初心者支部#14「AWS Night school & LT」
+- [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://qiita.com/SatoshiShinohara/items/942eae92d1a86e5235c3)
 - [Ansible Night in Tokyo 2018.09](https://qiita.com/SatoshiShinohara/items/5de45822b2d3ba47f9fa)
 - [DevOpsを支える今話題のHashiCorpツール群について](https://qiita.com/SatoshiShinohara/items/8129ae983efad6e6ac93)
 - ITエンジニアのための”アニメ”から学びを得る勉強会 | あにべん！
