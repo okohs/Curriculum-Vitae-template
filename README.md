@@ -106,6 +106,8 @@
 
 ### 社外セミナー・勉強会への参加、社内へのフィードバック
 #### 一般枠
+- [【サポーターズCoLab勉強会】スマホゲームサーバのしくみをしってみよう](https://qiita.com/SatoshiShinohara/items/d4d152454aeb245d8e43)
+- [【初心者向け、上級開発者お断り！】インフラエンジニアが学ぶはじめてのAPI in 東京](https://qiita.com/SatoshiShinohara/items/16ee5223bf6f25b4dc50)
 - Ansibleもくもく会 （サーバ編）2018.10
 - [JAWS-UG 初心者支部#14「AWS Night school & LT」](https://qiita.com/SatoshiShinohara/items/942eae92d1a86e5235c3)
 - [Ansible Night in Tokyo 2018.09](https://qiita.com/SatoshiShinohara/items/5de45822b2d3ba47f9fa)
