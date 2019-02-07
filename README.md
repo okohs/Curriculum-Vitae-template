@@ -5,8 +5,8 @@
 |key|value|
 |---|-----|
 |Name|池澤　涼太 (Ikezawa Ryota)|
-|Blog|[Medium](https://medium.com/@pavegy/latest)|
-|Twitter|[@cuz_r](https://twitter.com/cuz_r)|
+|Blog|[Medium](https://www.pavlog.tokyo)|
+|Twitter|[@cuz_r](https://twitter.com/_pavlog)|
 |Qiita|[paveg](https://qiita.com/paveg)|
 
 ## スキル
@@ -14,12 +14,14 @@
 ### 言語
 
 - プログラミング言語
-  - Ruby(3年)
+  - Ruby(4年)
     - メインで使っている言語
-  - Golang(半年)
+  - Golang(1年)
     - ここ半年程度触る機会が増えた
+    - 頻度はあまり高くないので得意ではない
   - Javascript(2年)
-    - あまり得意ではないが、抵抗はない。画面作るときに書いていた
+    - あまり得意ではないが、抵抗はない。画面作るときに書いている程度
+    - 今後注力したいポイント
 
 - 日本語
   - ネイティブ
@@ -29,7 +31,7 @@
 
 ### フレームワーク
 
-- Ruby On Rails(4系)
+- Ruby On Rails(4系/5系)
 - React.js（少し）
 - Riot.js
 
@@ -59,6 +61,15 @@
 
 ## 職務経歴
 
+### 2018/08 - : acall株式会社
+
+職務: Webアプリケーションエンジニア（副業）
+
+#### 開発補助
+
+- Rails 5.0から5.2系へのアップデート
+
+
 ### 2015/11 - : freee株式会社
 
 職務: Webアプリケーションエンジニア
@@ -78,7 +89,7 @@
 
 #### プロジェクトマネジメント(2018/06 -)
 
-- 外部連携
+- PjMとして銀行系API接続の開発に参画
 
 ### 2015/04 - 2015/10: エクストップテクノロジー株式会社
 
