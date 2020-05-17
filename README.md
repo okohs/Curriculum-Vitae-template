@@ -1,15 +1,19 @@
 # 職務経歴書
 
+2020年05月17日 更新
+
 ## 基本情報
 |key|value|
 |---|-----|
-|Name|<ruby><rb>北村　勇磨</rb><rt>(Kitamura Yuma)</rt></ruby>|
+|Name|北村　勇磨 (Yuma Kitamura)|
+|Profile|[Web Developer - Yuma Kitamura](https://yuukit.me/)|
 |Blog|[Web猫ブログ](https://webneko.dev/)|
-|Scrapbox|[scrapbox.io/jiyuujinlab/](https://scrapbox.io/jiyuujinlab/)|
+|Wantedly|[Yuma Kitamura](https://www.wantedly.com/users/101311859)|
 |Twitter|[@jiyuujinlab](https://twitter.com/jiyuujinlab)|
-|Github|[jiyuujin](https://github.com/jiyuujin)|
-|Gitlab|[jiyuujin](https://gitlab.com/jiyuujin)|
-|Bitbucket|[jiyuujin](https://bitbucket.org/jiyuujin)|
+|Github|[@jiyuujin](https://github.com/jiyuujin)|
+|Slides|[@jiyuujin](https://slides.com/jiyuujin)|
+|Connpass|[@jiyuujin](https://connpass.com/user/jiyuujin/)|
+|Scrapbox|[@nekohack](https://scrapbox.io/nekohack/) (非公開です)|
 
 ### 長所・強み
 - エンジニア業務の他、設計やデザインなどにも理解・関心がある
@@ -23,105 +27,58 @@
     - コミュニティへの積極的な参加を契機に
 
 ### スキル
-- html (W3C Conformance)
-    - xhtml
+- HTML (W3C Conformance)
 - CSS (CSS3)
-    - FLOCSS (Concept Design)
-    - PostCSS
-    - SASS
-    - SCSS
-    - Stylus
-- CSS Frameworks
-    - Bootstrap
-    - Bootstrap-Vue
-    - Element UI
-    - Tailwind CSS
-    - Vuetify
-    - Vuesax
+    - SCSS, Sass, PostCSS, stylus
+    - BEM, FLOCSS
+    - Bootstrap, Bootstrap-Vue, Element UI, Tailwind CSS, Vuetify, Vuesax
 - JavaScript
-    - Vue > 2.x
-        - Nuxt
-        - VuePress
-    - React > 16.x
-    - jQuery < 2.x
-    - EcmaScript
-    - VanillaJS
-    - TypeScript > 2.x
+    - Vue.js, React, Angular[/.js], jQuery
+    - TypeScript
     - Node.js
-        - npm
-        - yarn
-    - Webpack > 3.x
-    - Parcel
-- Lint
-    - eslint
-    - prettier
-    - tslint
-- PHP > 5.x
-    - Laravel
-- WordPress
-- Java > 1.8.x
-    - Spring > 3.x
-- Scala > 2.x
-    - Play > 2.x
-- Swift > 0.x
-    - Objective-C
-- Python > 2.x
-- Git
-    - Bitbucket
-    - Github
-    - Gitlab
-- SVN
-- Shell
-    - bash
-    - zsh
-- CI
-    - Circle CI
-    - Travis CI
+- Scala
+    - Play
+- PHP
+    - Laravel, CakePHP
+- Native App
+    - iOS, Android, Flutter
 - AWS
-    - ACM
-    - Amplify
-    - Aurora
-    - Beanstalk
-    - CloudFront
-    - Cognito
-    - EC2
-    - Fargate
-    - RDB
-    - Route53
-    - S3
-- Netlify
-- GCP
-    - Firebase
-        - Authentication
-        - Firebase Hosting
-        - Cloud Function
-        - Realtime DB
-        - Firestore
-        - Storage
-- Heroku
-- Docker
-    - docker-compose
-- SQL
-    - MySQL
-    - PostgreSQL
+    - ACM, Amplify, API Gateway, AppSync, Cloudfront, EC2, IAM, Lambda, Route53, SNS, S3
+- Deploy
+    - Netlify (JAMStack), Heroku
+
+### プラグイン
+  - Vue.js
+    - `v-range-picker`
+      - https://www.npmjs.com/package/v-range-picker
+    - `@nekohack/j-stylebook`
+      - https://www.npmjs.com/package/@nekohack/j-stylebook
+  - ESLint
+    - `@nekohack/eslint-config`
+      - https://www.npmjs.com/package/@nekohack/eslint-config
+    - `@nekohack/eslint-config-vue`
+      - https://www.npmjs.com/package/@nekohack/eslint-config-vue
+    - `@nekohack/eslint-config-react`
+      - https://www.npmjs.com/package/@nekohack/eslint-config-react
+  - StyleLint
+    - `@nekohack/stylelint-config`
+      - https://www.npmjs.com/package/@nekohack/stylelint-config- PHP > 5.x
 
 ### Studying
-- ServerSide（Scala, Kotlin, Rust）
-- API Design（REST, GraphQL）
+- DevOps
+- PWA
+- deno
+- Security (XSS, SRI, etc)
+- Server (Scala)
+- API Design (GraphQL)
 
 ### エディタ
-- IntelliJ IDEA (Ultimate)
-- PHPStorm
-- Atom
-- Xcode
-- Android Studio
+- JetBrains: IntelliJ IDEA (Ultimate) / Android Studio
+- Microsoft: VSCode
+- Apple: Xcode
 
 ### その他
-- Chatwork
-- Gyazo (Gif)
-- Scrapbox
-- Slack
-- Trello
+- Gyazo GIF
 - Figma
 - Zeplin
 
@@ -138,27 +95,39 @@
 - [Vue Fes 2018と振り返り](https://master.d1jx3kphbrrzqg.amplifyapp.com/)
 
 ## プライベートワーク
-### Github
-http://github.com/jiyuujin
-
-- Web猫ブログ
-    - 技術ブログ
-    - Nuxt + Contentful + Fargate
-    - https://github.com/jiyuujin/webneko-blog-ver2
-- 自分のための管理画面 (Nuxt Admin)
-    - 上記Web猫ブログの裏側で動作する管理画面
-    - Nuxt + Firestore + Netlify
-    - https://github.com/jiyuujin/nuxt-admin-server
-- イベント、経歴を整理するための管理画面
-    - コミュニティの立ち上げに伴って整理することを目的に動作する管理画面
-    - React + Cognito + Amplify
-    - https://github.com/jiyuujin/resume-client
+- [プロフィールサイト] `Yuma Kitamura - Web Developer`
+  - [https://github.com/jiyuujin/yuukit.me](https://github.com/jiyuujin/yuukit.me)
+  - Gatsby.js + AWS CDK (S3 / Cloudfront)
+- [技術ブログ] `Web猫ブログ`
+  - [https://github.com/jiyuujin/webneko-blog](https://github.com/jiyuujin/webneko-blog)
+  - Nuxt.js + Contentful + AWS Fargate
+- [管理画面] 自分のための管理画面 `Admin`
+  - [https://github.com/jiyuujin/admin](https://github.com/jiyuujin/admin)
+  - Nuxt.js + Firestore + Netlify
 
 ### そのほか成果物
 https://scrapbox.io/jiyuujinlab
 
 ## 職務経歴
 
+### スマレジ株式会社 - 2019/07 〜
+|key|value|
+|---|-----|
+|職種|フロントエンドエンジニア|
+|雇用形態|正社員|
+|事業内容|一般店舗向けの販売支援プラットフォームPOSの開発・提供|
+|従業員数|100名|
+
+#### POSチームプロジェクトメンバー内訳
+- プロダクトマネージャ 1名
+- サーバーサイドエンジニア 3名
+- フロントエンドエンジニア 1名 (本人)
+- インフラエンジニア 1名
+
+#### [既存案件] POS 管理画面の開発 (CakePHP/PHP)
+- 複数店舗選択や、日付範囲選択などのリプレースに伴う、デザイン設計と実装を担当
+
+---
 ### 株式会社ROXX (旧SCOUTER) - 2019/02 〜 2019/06
 |key|value|
 |---|-----|
