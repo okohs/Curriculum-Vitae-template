@@ -49,6 +49,8 @@
 
 ### プラグイン
   - Vue.js
+    - `v-single-picker`
+      - https://www.npmjs.com/package/v-single-picker
     - `v-range-picker`
       - https://www.npmjs.com/package/v-range-picker
     - `@nekohack/j-stylebook`
