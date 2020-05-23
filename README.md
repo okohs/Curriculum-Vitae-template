@@ -62,7 +62,7 @@
       - https://www.npmjs.com/package/@nekohack/eslint-config-react
   - StyleLint
     - `@nekohack/stylelint-config`
-      - https://www.npmjs.com/package/@nekohack/stylelint-config- PHP > 5.x
+      - https://www.npmjs.com/package/@nekohack/stylelint-config
 
 ### Studying
 - DevOps
@@ -86,13 +86,41 @@
 寄稿はありません
 
 ### 登壇、LT
-- [Web猫ブログに型安全を](https://master.d1kgb4480wljkh.amplifyapp.com/)
-- [Web猫ブログにGraphQLを導入してみた話](https://master.d1k81nysz2qoq8.amplifyapp.com/)
-- [Web猫ブログで問い合わせにFirestoreを採用した話](https://master.d1k6flsnxj32sh.amplifyapp.com/)
-- [コンシューマ向けVue SPAでプロダクトを開発して得た知見](https://master.d1c3mho10hxrnp.amplifyapp.com/)
-- [Contentful製ブログでGoogle Adsenseが使えるようになるまで](https://master.d1k61oei78g67d.amplifyapp.com/)
-- [GASを使って楽チン](https://hardcore-noyce-b7079a.netlify.com/)
+
+#### PWA night #16 / 2020.05.20
+[もっと身近にやってたPWA](https://webneko.dev/posts/more-closer-pwa-2020)
+
+#### yumemi.vue #5 / 2020.01.23
+[Transitionを実践的に使う](https://webneko.dev/posts/vue-transition-more-pratically)
+
+#### v-okinawa #3 / 2019.12.16
+[Composition API 勘所など](https://webneko.dev/posts/notices-of-composition-api-in-vue3-eve)
+
+#### v-kansai #12 / 2019.12.06
+[2019年を振り返る](https://webneko.dev/posts/feedback-2019)
+
+#### CaT vol.7 / 2019.08.16
+[Vue CLI テストTips集](https://slides.com/jiyuujin/20190817)
+
+<!--
+#### v-kansai #4 / 2019.03.20
+[Web猫ブログに型安全を](https://master.d1kgb4480wljkh.amplifyapp.com/)
+
+#### v-kansai #3 / 2019.02.28
+[Web猫ブログにGraphQLを導入してみた話](https://master.d1k81nysz2qoq8.amplifyapp.com/)
+
+#### Nuxt meetup #7 / 2019.02.18
+[Web猫ブログで問い合わせにFirestoreを採用した話](https://master.d1k6flsnxj32sh.amplifyapp.com/)
+
+#### Laravel/Vue.js #7 / 2019.01.31
+[コンシューマ向けVue SPAでプロダクトを開発して得た知見](https://master.d1c3mho10hxrnp.amplifyapp.com/)
+
+#### v-kansai #2 / 2019.01.19
+[Contentful製ブログでGoogle Adsenseが使えるようになるまで](https://master.d1k61oei78g67d.amplifyapp.com/)
+
+#### v-kansai #1 / 2018.12.20
 - [Vue Fes 2018と振り返り](https://master.d1jx3kphbrrzqg.amplifyapp.com/)
+-->
 
 ## プライベートワーク
 - [プロフィールサイト] `Yuma Kitamura - Web Developer`
@@ -105,8 +133,8 @@
   - [https://github.com/jiyuujin/admin](https://github.com/jiyuujin/admin)
   - Nuxt.js + Firestore + Netlify
 
-### そのほか成果物
-https://scrapbox.io/jiyuujinlab
+### その他成果物
+https://scrapbox.io/nekohack
 
 ## 職務経歴
 
