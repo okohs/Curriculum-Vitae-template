@@ -1,0 +1,14 @@
+{
+  "name": "curriculum-vitae",
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "textlint ./README.md ./CHANGELOG.md",
+    "lint:fix": "textlint ./README.md ./CHANGELOG.md --fix"
+  },
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
