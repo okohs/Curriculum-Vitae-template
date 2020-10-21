@@ -2,6 +2,7 @@
 
 # Table of contents
 - [基本情報](#基本情報)
+- [職務経歴（概要）](#職務経歴概要)
 - [スキル](#スキル)
 
 ## 基本情報
@@ -145,19 +146,23 @@
 
 ## 課外活動
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+### 運営に携わっているコミュニティ
+* [DDD-Community-Jp](https://ddd-community-jp.connpass.com/)
+
+### 直近の企画・運営歴
+| Date | Event | 
+|---|-----|
+|2020/10/10|[エリック・エヴァンスのドメイン駆動設計 輪読会「第4章 ドメインを隔離する」](https://ddd-community-jp.connpass.com/event/190629/)|
+|2020/09/26|[エリック・エヴァンスのドメイン駆動設計 輪読会「第3章 モデルと実装を結びつける」](https://ddd-community-jp.connpass.com/event/188787/)|
+|2020/09/05|[エリック・エヴァンスのドメイン駆動設計 輪読会「第2章 コミュニケーションと言語の使い方」](https://ddd-community-jp.connpass.com/event/186935/)|
+|2020/08/22|[エリック・エヴァンスのドメイン駆動設計 輪読会「第1章 知識をかみ砕く」](https://ddd-community-jp.connpass.com/event/185933/)|
+|2020/08/08|[エリック・エヴァンスのドメイン駆動設計 輪読会 1回「序文、目次、索引」](https://ddd-community-jp.connpass.com/event/185352/)|
+|2020/08/01|[TDD Boot Camp 2020 Online \#1 ](https://tddbc.connpass.com/event/181973/)|
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
 
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+| Date | Event | Slide |
+|---|-----|-----|
+|2019/12/14|[カイゼンの旅、チームの旅。現場の軌跡を語ろうライトニングトーク回 \- DevLOVE](https://devlove.doorkeeper.jp/events/109556?utm_campaign=event_109556_130263&utm_medium=email&utm_source=not_replied_message)| [対話から始めていく私たち開発チームのジャーニー](https://speakerdeck.com/jnuank/dui-hua-karashi-meteikusi-tatikai-fa-timufalsesiyani) |
+|2019/12/14|[レガシーをぶっつぶせ。現場でDDD！2nd 「インプット＜アウトプット！」第一部 ](https://genbade-ddd.connpass.com/event/156060/)|[モデリングで既存システムの可視化に臨んだ話](https://speakerdeck.com/jnuank/moderingudeji-cun-sisutemufalseke-shi-hua-nilin-ndahua) |
 
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
