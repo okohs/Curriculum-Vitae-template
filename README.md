@@ -9,12 +9,11 @@
 |Qiita|[@jnuank](https://qiita.com/jnuank)|
 |Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
 |SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
+|LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
 |Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
 
 
 ## スキル
-
-
 
 ### 言語
 #### フロントエンド
@@ -59,21 +58,25 @@
 - Docker
 - Serverless Framework
 
-### その他
+### 開発プロセス
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
-## 言語
-
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+- スクラム
+- モブプログラミング
 
 ## 強み
 
+- チームで取り入れた方がプラクティスを、なぜ必要なのかを踏まえながら、チームへ浸透させていくこと
+- ぼっちで始めること、人を巻き込むこと 
+- モブ/ペアプログラミングを取り入れながら、互いに教えあう文化を作っていくこと
+
 ## やったことはないが興味があるもの
+
+- Scala/Akka、リアクティブアーキテクチャ
+- 関数型言語でのプロダクト開発
+- 自立したチームをつくること
+- チーム全体でのドメインモデル駆動での設計・開発
+- エンジニアの評価、組織制度の制定、運用
+
 
 ## 職務経歴
 
