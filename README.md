@@ -80,11 +80,19 @@
 - Sentry、Selenium IDE、TestCafe、Cypress
 - Docker
 - Serverless Framework
+- PlantUML
+- Google Jamboard、miro
 
-### 開発プロセス
+### 開発プロセスなど
 
 - スクラム
 - モブプログラミング
+- ユーザーストーリーマッピング
+- RDRA2.0
+- [Event Storming](https://www.eventstorming.com/)
+- ふりかえり
+  - KPT、YWT、FDL、タイムライン、4Ls
+
 
 ## 強み
 
