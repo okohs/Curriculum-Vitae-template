@@ -1,5 +1,9 @@
 # 職務経歴書
 
+# Table of contents
+- [基本情報](#基本情報)
+- [スキル](#スキル)
+
 ## 基本情報
 
 | 項目 | |
@@ -10,8 +14,25 @@
 |Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
 |SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
 |LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
+|connpass|[NakajimaJun](https://connpass.com/user/NakajimaJun/)|
 |Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
 
+## 職務経歴（概要）
+
+### エンジニア 2016年10月〜
+
+- 社内用のWebアプリケーションの開発
+  - Python、Django REST framework、Vue.js
+- 介護施設向け入居者請求システム開発
+  - bash、Python、AWS Lambda
+- 客先向けの小売基幹システムの開発
+  - bash
+- 広告代理店向けのプロジェクト管理支援ツールの開発
+  - C#、ASP.NET MVC5
+
+### エンジニア以前 2009年4月〜2016年9月
+- 医療機器(レントゲン、アンギオグラフィー、CT、MRI、US）のメンテナンス、修理、据付
+- 無線LAN機器のコールセンターのオペレーター
 
 ## スキル
 
@@ -30,10 +51,11 @@
 - SQLServer、PostgreSQL
 
 ### フレームワーク
-- ASP.NET MVC5
+- ASP.NET MVC5、Bootstrap
 - Django、Django REST framework
 - Spring Boot
 - jQuery
+- Vuetify
 
 ### インフラ
 #### AWS
@@ -80,11 +102,36 @@
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2018/07 - 現在 : ハンズラボ株式会社
 
-職務: Webアプリケーションエンジニア（例）
+#### 2020/04 - 現在： 社内システムのレガシーマイグレーション
+役割: Webアプリケーションエンジニア（メンバー）
 
-#### 職務内容の名前（レストラン検索とか）
+- 
+
+#### 2020/01 - 2020/03： 介護施設向け入居者請求システム開発
+役割: Webアプリケーションエンジニア（メンバー）
+
+#### 2018/07 - 2020/03： 小売基幹システムの保守運用
+役割: Webアプリケーションエンジニア（メンバー　→　リーダー）
+チーム：2〜3人
+
+- 客先のオンプレサーバ(CentOS）、AWS上のサーバの保守・運用
+- AWSの使用コスト削減の提案や改修案件の提案実施
+
+#### 2019/05 - 2019/09： 商談系システムの軽減税率対応
+役割: Webアプリケーションエンジニア（リーダー）
+チーム：3人
+
+#### 2018/07 - 2019/04： 賞味期限管理システム開発
+役割: Webアプリケーションエンジニア（メンバー）
+チーム：2人
+
+### 2016/10 - 2018/06 : 株式会社Vヴィズリア
+
+#### 2017/07 - 2019/04： 賞味期限管理システム開発
+
+
 
 - 職務内容の詳細を箇条書きでかく
 
