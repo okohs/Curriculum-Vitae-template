@@ -2,25 +2,62 @@
 
 ## 基本情報
 
-|key|value|
+| 項目 | |
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|Jun Nakajima|
+|Twitter|[@jnuank_](https://twitter.com/jnuank_)|
+|Qiita|[@jnuank](https://qiita.com/jnuank)|
+|Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
+|SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
+|Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
+
 
 ## スキル
+
+
+
 ### 言語
-- Ruby
-- PHP
+#### フロントエンド
+- HTML、CSS、JavaScript
+- Vue.js
+
+#### バックエンド
+- Python
+- C#
 - Java
-- などなど
+- Shell(bash)
+
+### データストア
+- SQLServer、PostgreSQL
 
 ### フレームワーク
-
-- Ruby on Rails
-- Laravel
+- ASP.NET MVC5
+- Django、Django REST framework
 - Spring Boot
-- などなど
+- jQuery
+
+### インフラ
+#### AWS
+- EC2、Elastic Beanstalk
+- Lambda、APIGateway、SQS、SNS
+- RDS、DynamoDB
+- VPC、IAM、S3、CloudFormation、CloudWatch
+
+#### オンプレ
+
+- Apache
+
+#### OS
+- Windows、Windows Server
+- macOS
+- Linux(CentOS、Amazon Linux)
+
+### その他
+
+- GitHub、 GitHub Actions、 SVN
+- Sentry、Selenium IDE、TestCafe、Cypress
+- Docker
+- Serverless Framework
 
 ### その他
 
