@@ -161,9 +161,18 @@
   - この知見はイベントで登壇
     - [モデリングで既存システムの可視化に臨んだ話](https://speakerdeck.com/jnuank/moderingudeji-cun-sisutemufalseke-shi-hua-nilin-ndahua)
 
-- チームリーダーとして、メンバーのオンボーディング、1on1の実施
+- チームリーダーとして、顧客との課題調整、新規メンバーへのオンボーディング、1on1の実施
   - 今までのキャリアで初のリーダー経験だったので、そのときの手探り感や得た知見を社内で共有
     - [「君、今日からリーダーね」と 言われた私が取り組み始めたこと](https://speakerdeck.com/jnuank/jun-jin-ri-kararidane-to-yan-waretasi-gaqu-rizu-mishi-metakoto)
+
+#### 業務外
+
+- bashによる入出力と計算・判断ロジックが結合した開発に疑問を持ち、正しいものを正しくつくる塾の設計コースに参加し、それを社内で共有しました。
+  - [正しくつくるための設計を学ぶ\_中間報告](https://speakerdeck.com/jnuank/zheng-sikutukurutamefalseshe-ji-woxue-bu-zhong-jian-bao-gao)
+  - [正しくつくるための設計を学ぶ\_最終報告](https://speakerdeck.com/jnuank/zheng-sikutukurutamefalseshe-ji-woxue-bu-zui-zhong-bao-gao)
+
+- 自身がDDDを社内で布教したいが為に、外部講師を呼んで業務後に勉強会を主催
+  - [ドメイン駆動設計のモデリングハンズオンを開催して頂きました！｜ハンズラボエンジニアブログ｜ハンズラボ株式会社](https://www.hands-lab.com/tech/entry/5391.html#more-5391)
 
 ### 2016/10 - 2018/06 : 株式会社Vヴィズリア
 
