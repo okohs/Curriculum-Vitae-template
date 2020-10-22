@@ -1,7 +1,5 @@
 name: 'Run textlint with reviewdog'
-on:
-  push:
-     branches: [ master ]
+on: [pull_request]
 jobs:
   textlint:
     runs-on: Ubuntu-latest
