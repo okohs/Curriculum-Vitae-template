@@ -1,32 +1,32 @@
 name: 'Run textlint with reviewdog'
-    on:
-      push:
-         branches: [ master ]
-    jobs:
-      textlint:
-        runs-on: Ubuntu-latest
-        container:
-          image: node:current-alpine
-          env:
-            LEVEL: error
-            FLAGS: src/
-        steps:
-          - uses: actions/checkout@v1
-          - name: setup-reviewdog
-            run: |
-              mkdir -p $HOME/bin && wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh \
-                | sh -s -- -b /usr/local/bin/ v0.9.13
-              apk --update add Git && \
-                rm -rf /var/lib/apt/lists/*
-          - name: installl-textlint
-            run: |
-              cd "$GITHUB_WORKSPACE"
-              if [ ! -f "$(npm bin)/textlint" ]; then
-                npm install
-              fi
-          - name: run-reviewdog
-            env:
-              REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            run: |
-              $(npm bin)/textlint -f checkstyle "${FLAGS:-'.'}" \
-                | reviewdog -f=checkstyle -name="textlint" -diff="Git diff HEAD^" -reporter=GitHub-pr-review -level="${LEVEL}"
+on:
+  push:
+     branches: [ master ]
+jobs:
+  textlint:
+    runs-on: Ubuntu-latest
+    container:
+      image: node:current-alpine
+      env:
+        LEVEL: error
+        FLAGS: src/
+    steps:
+      - uses: actions/checkout@v1
+      - name: setup-reviewdog
+        run: |
+          mkdir -p $HOME/bin && wget -O - -q https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh \
+            | sh -s -- -b /usr/local/bin/ v0.9.13
+          apk --update add Git && \
+            rm -rf /var/lib/apt/lists/*
+      - name: installl-textlint
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          if [ ! -f "$(npm bin)/textlint" ]; then
+            npm install
+          fi
+      - name: run-reviewdog
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $(npm bin)/textlint -f checkstyle "${FLAGS:-'.'}" \
+            | reviewdog -f=checkstyle -name="textlint" -diff="Git diff HEAD^" -reporter=GitHub-pr-review -level="${LEVEL}"
