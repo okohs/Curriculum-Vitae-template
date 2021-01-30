@@ -89,20 +89,35 @@
 
 ### 登壇、LT
 
+#### VR 勉強会 #3 / 2020.06.21
+- Slack を中心に世界は廻っている
+    - 自身の推しツールをテーマに紹介する回。自ら VR アバターも準備、個人用 Slack を勧めることを中心に話した。
+    - https://webneko.dev/posts/recommend-tools-in-vr-study-3
+
 #### PWA night #16 / 2020.05.20
-[もっと身近にやってたPWA](https://webneko.dev/posts/more-closer-pwa-2020)
+- もっと身近にやってた PWA
+   - 直近自身が自然とこういう観点でプロジェクトを進めると知らず知らずの内に PWA 化達成できる経験を掻い摘んで話した。
+   - https://webneko.dev/posts/more-closer-pwa-2020
 
 #### yumemi.vue #5 / 2020.01.23
-[Transitionを実践的に使う](https://webneko.dev/posts/vue-transition-more-pratically)
+- Transition を実践的に使う
+   - 一般的に余計な機能のひとつと思われている Transition を Vue コンポーネントに盛り込み納品を済ませたことを中心に話した。
+   - https://webneko.dev/posts/vue-transition-more-pratically
 
 #### v-okinawa #3 / 2019.12.16
-[Composition API 勘所など](https://webneko.dev/posts/notices-of-composition-api-in-vue3-eve)
+- Composition API 勘所など
+   - 来る Vue 3。その中でも一番の話題 Composition API の使い方を絡めて話した。
+   - https://webneko.dev/posts/notices-of-composition-api-in-vue3-eve
 
 #### v-kansai #12 / 2019.12.06
-[2019年を振り返る](https://webneko.dev/posts/feedback-2019)
+- 2019 年を振り返る
+   - 丸一年、コミュニティ v-kansai を運営してきたことを始め自身の振り返りを話した。
+   - https://webneko.dev/posts/feedback-2019
 
 #### CaT vol.7 / 2019.08.16
-[Vue CLI テストTips集](https://slides.com/jiyuujin/20190817)
+- Vue CLI テスト Tips 集
+   - これまでフロントエンドのユニットテストを導やってこなかった自身自ら、気を遣ったテストする時の観点について話した。
+   - https://slides.com/jiyuujin/20190817
 
 <!--
 #### v-kansai #4 / 2019.03.20
