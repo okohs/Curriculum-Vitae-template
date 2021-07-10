@@ -4,73 +4,110 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Github|[@mabubu0203](https://github.com/mabubu0203)|
+|Qiita|[@mabubu0203](https://qiita.com/mabubu0203)|
 
 ## スキル
-### 言語
-- Ruby
-- PHP
-- Java
-- などなど
 
-### フレームワーク
+### プログラミング言語・フレームワーク
+- Java  
+  Optional, Stream API, lambda式 を読める&利用できる。  
+  Gradle を使用して、WebAPPを0から構築できる。  
+  - Spring  
+    Spring Boot Starter を利用してWebAPPを0から構築できる。  
+    Spring Cloud については勉強中。  
+  - Struts  
+  - Seaser2  
+- HTML css  
+  - BootStrap  
+- javascript / Typescript  
+  - jQuery
+  - Riot.js
+  - Vue.js
+- SQL  
+  大量レコードから抽出作業を実施した経験あり。  
+  WebAPPから呼ばれるクエリについて作成経験あり。  
+- OpenAPI Specification  
+  yaml形式、json形式、どちらも0から作成した経験あり。  
+  openapi.yml, openapi.json から OpenAPI Generator を利用してプログラムを自動生成した経験あり。  
+  - Swagger-UI  
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+### ミドルウェア
 
-### その他
+#### データストア
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Oracle
+- MySql
+- PostgreSQL
+- SqlServer
+- Cassandra
+- Elasticsearch
+- Redis
 
-## 言語
+#### Web/Appサーバー
 
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+- ApacheHttpServer
+- Nginx
+- Tomcat
 
-## 強み
+### プラットフォーム
 
-## やったことはないが興味があるもの
+- on-premises  
+  - CentOS  
+    業務で本番サーバーに直接sshし調査&操作した経験あり。
+- Heroku  
+  趣味程度
+- AWS  
+  趣味程度
+
+### 開発ツール
+
+#### バージョン管理
+
+- SVN
+- Gitlab
+- Github
+- Sourcetree
+
+#### IDE
+
+- InteliJ IDEA
+- Eclipse
+- Visual Studio Code
+- Atom
+
+#### コミュニケーション
+
+- Slack
+
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+↑新 ↓古
 
-職務: Webアプリケーションエンジニア（例）
+### 2019/04 - 現在 : 株式会社アイスタイル
 
-#### 職務内容の名前（レストラン検索とか）
+職務: Webアプリケーションエンジニア
 
-- 職務内容の詳細を箇条書きでかく
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+### 2014/04 - 2019/03 : 株式会社バルテック
 
-職務: サーバーサイドエンジニア
+職務: Webアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
 
-- 職務内容の詳細を箇条書きでかく
+### 2008/04 - 2014/03 : 陸上自衛隊
 
-## 課外活動
+職務: 国防
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
