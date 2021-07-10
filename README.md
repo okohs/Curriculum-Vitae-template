@@ -9,7 +9,7 @@
 
 ## スキル
 
-### プログラミング言語 - フレームワーク
+### プログラミング言語・フレームワーク
 - Java  
   Optional, Stream API, lambda式 を読める&利用できる。  
   Gradle を使用して、WebAPPを0から構築できる。  
@@ -20,8 +20,10 @@
   - Seaser2  
 - HTML css  
   - BootStrap  
-- javascript  
+- javascript / Typescript  
   - jQuery
+  - Riot.js
+  - Vue.js
 - SQL  
   大量レコードから抽出作業を実施した経験あり。  
   WebAPPから呼ばれるクエリについて作成経験あり。  
@@ -48,6 +50,16 @@
 - Nginx
 - Tomcat
 
+### プラットフォーム
+
+- on-premises  
+  - CentOS  
+    業務で本番サーバーに直接sshし調査&操作した経験あり。
+- Heroku  
+  趣味程度
+- AWS  
+  趣味程度
+
 ### 開発ツール
 
 #### バージョン管理
@@ -55,12 +67,14 @@
 - SVN
 - Gitlab
 - Github
+- Sourcetree
 
 #### IDE
 
 - InteliJ IDEA
 - Eclipse
-- VS Code
+- Visual Studio Code
+- Atom
 
 #### コミュニケーション
 
@@ -69,14 +83,31 @@
 
 ## 職務経歴
 
+↑新 ↓古
+
 ### 2019/04 - 現在 : 株式会社アイスタイル
 
 職務: Webアプリケーションエンジニア
+
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
 
 ### 2014/04 - 2019/03 : 株式会社バルテック
 
 職務: Webアプリケーションエンジニア
 
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
+
 ### 2008/04 - 2014/03 : 陸上自衛隊
 
 職務: 国防
+
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
