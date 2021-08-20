@@ -1,26 +1,21 @@
+# 目次の自動生成について
+
+[TOC Generator](https://github.com/technote-space/toc-generator)をGithubActionsで利用しています。
+
+1. 自動生成箇所を手動で削除する
+1. 自動生成箇所に下記を差し込む
+  ```markdown
+  <!-- START doctoc -->
+  <!-- param::title::'**目次**':: -->
+  <!-- END doctoc -->
+  ```
+1. push後、PRが生成される
+
 # 職務経歴書
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
-- [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB)
-  - [プログラミング言語・フレームワーク](#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%83%BB%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)
-  - [ミドルウェア](#%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2)
-    - [データストア](#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%83%88%E3%82%A2)
-    - [Web/Appサーバー](#webapp%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-  - [プラットフォーム](#%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0)
-  - [開発ツール](#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB)
-    - [バージョン管理](#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86)
-    - [IDE](#ide)
-    - [コミュニケーション](#%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
-- [職務経歴](#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4)
-  - [2019/04 - 現在 : 株式会社アイスタイル](#201904---%E7%8F%BE%E5%9C%A8--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
-  - [2014/04 - 2019/03 : 株式会社バルテック](#201404---201903--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%83%86%E3%83%83%E3%82%AF)
-  - [2008/04 - 2014/03 : 陸上自衛隊](#200804---201403--%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- START doctoc -->
+<!-- param::title::'**目次**':: -->
+<!-- END doctoc -->
 
 ## 基本情報
 
@@ -40,6 +35,9 @@
     Spring Cloud については勉強中。  
   - Struts  
   - Seaser2  
+- PHP
+  - Laravel
+    これから覚える。    
 - HTML css  
   - BootStrap  
 - javascript / Typescript  
@@ -68,7 +66,7 @@
 
 #### Web/Appサーバー
 
-- ApacheHttpServer
+- Apache HTTP Server
 - Nginx
 - Tomcat
 
@@ -78,9 +76,9 @@
   - CentOS  
     業務で本番サーバーに直接sshし調査&操作した経験あり。
 - Heroku  
-  趣味程度
+  趣味程度。
 - AWS  
-  趣味程度
+  趣味程度。
 
 ### 開発ツール
 
@@ -89,19 +87,23 @@
 - SVN
 - Gitlab
 - Github
-- Sourcetree
+  いづれもSourcetreeを利用している。
 
 #### IDE
 
 - InteliJ IDEA
+  個人で有償版を利用している。
 - Eclipse
 - Visual Studio Code
 - Atom
 
+#### 仮想化
+
+- Docker
+
 #### コミュニケーション
 
 - Slack
-
 
 ## 職務経歴
 
