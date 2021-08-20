@@ -1,4 +1,21 @@
+# 目次の自動生成について
+
+[TOC Generator](https://github.com/technote-space/toc-generator)をGithubActionsで利用しています。
+
+1. 自動生成箇所を手動で削除する
+1. 自動生成箇所に下記を差し込む
+  ```markdown
+  <!-- START doctoc -->
+  <!-- param::title::'**目次**':: -->
+  <!-- END doctoc -->
+  ```
+1. push後、PRが生成される
+
 # 職務経歴書
+
+<!-- START doctoc -->
+<!-- param::title::'**目次**':: -->
+<!-- END doctoc -->
 
 ## 基本情報
 
@@ -18,6 +35,9 @@
     Spring Cloud については勉強中。  
   - Struts  
   - Seaser2  
+- PHP
+  - Laravel
+    これから覚える。    
 - HTML css  
   - BootStrap  
 - javascript / Typescript  
@@ -46,7 +66,7 @@
 
 #### Web/Appサーバー
 
-- ApacheHttpServer
+- Apache HTTP Server
 - Nginx
 - Tomcat
 
@@ -56,9 +76,9 @@
   - CentOS  
     業務で本番サーバーに直接sshし調査&操作した経験あり。
 - Heroku  
-  趣味程度
+  趣味程度。
 - AWS  
-  趣味程度
+  趣味程度。
 
 ### 開発ツール
 
@@ -67,19 +87,23 @@
 - SVN
 - Gitlab
 - Github
-- Sourcetree
+  いづれもSourcetreeを利用している。
 
 #### IDE
 
 - InteliJ IDEA
+  個人で有償版を利用している。
 - Eclipse
 - Visual Studio Code
 - Atom
 
+#### 仮想化
+
+- Docker
+
 #### コミュニケーション
 
 - Slack
-
 
 ## 職務経歴
 
