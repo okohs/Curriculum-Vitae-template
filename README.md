@@ -3,12 +3,7 @@
 [TOC Generator](https://github.com/technote-space/toc-generator)をGithubActionsで利用しています。
 
 1. 自動生成箇所を手動で削除する
-1. 自動生成箇所に下記を差し込む
-  ```markdown
-  <!-- START doctoc -->
-  <!-- param::title::'**目次**':: -->
-  <!-- END doctoc -->
-  ```
+1. 自動生成箇所を修正する　[参考](https://github.com/mabubu0203/Curriculum-Vitae/wiki/Toc-Generatorの活用について)
 1. push後、PRが生成される
 
 # 職務経歴書
