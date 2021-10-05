@@ -10,8 +10,8 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<!-- param::title::'**目次**':: -->
-'**目次**'
+<!-- param::title::**目次**:: -->
+**目次**
 
 - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
 - [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB)
@@ -22,11 +22,12 @@
   - [プラットフォーム](#%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0)
   - [開発ツール](#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB)
     - [バージョン管理](#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86)
-    - [IDE](#ide)
+    - [IDE/Editor](#ideeditor)
     - [仮想化](#%E4%BB%AE%E6%83%B3%E5%8C%96)
     - [コミュニケーション](#%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [職務経歴](#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4)
-  - [2019/04 - 現在 : 株式会社アイスタイル](#201904---%E7%8F%BE%E5%9C%A8--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
+  - [2021/10 - 現在 : 株式会社LITALICO](#202110---%E7%8F%BE%E5%9C%A8--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BElitalico)
+  - [2019/04 - 2021/09 : 株式会社アイスタイル](#201904---202109--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
   - [2014/04 - 2019/03 : 株式会社バルテック](#201404---201903--%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%83%86%E3%83%83%E3%82%AF)
   - [2008/04 - 2014/03 : 陸上自衛隊](#200804---201403--%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A)
 
@@ -51,7 +52,7 @@
   - Struts  
   - Seaser2  
 - PHP
-  - Laravel
+  - Laravel  
     これから覚える。    
 - HTML css  
   - BootStrap  
@@ -99,16 +100,19 @@
 
 #### バージョン管理
 
-- SVN
-- Gitlab
-- Github
-  いづれもSourcetreeを利用している。
+- SVN  
+- Gitlab  
+- Github  
+  
+いづれもSourcetreeを利用している。
 
-#### IDE
+#### IDE/Editor
 
-- InteliJ IDEA
-  個人で有償版を利用している。
-- Eclipse
+- JetBrains
+  - InteliJ IDEA  
+    個人で有償版を利用している。
+- Eclipse  
+  しばらく使用していない。
 - Visual Studio Code
 - Atom
 
@@ -124,7 +128,16 @@
 
 ↑新 ↓古
 
-### 2019/04 - 現在 : 株式会社アイスタイル
+### 2021/10 - 現在 : 株式会社LITALICO
+
+職務: Webアプリケーションエンジニア
+
+<details>
+  <summary>詳細</summary>
+  WIP
+</details>
+
+### 2019/04 - 2021/09 : 株式会社アイスタイル
 
 職務: Webアプリケーションエンジニア
 
