@@ -49,24 +49,27 @@
   - Spring  
     Spring Boot Starter を利用してWebAPPを0から構築できる。  
     Spring Cloud については勉強中。  
-  - Struts  
   - Seaser2  
+  - Struts
 - PHP
   - Laravel  
-    これから覚える。    
 - HTML css  
   - BootStrap  
 - javascript / Typescript  
   - jQuery
   - Riot.js
+  - React
   - Vue.js
 - SQL  
   大量レコードから抽出作業を実施した経験あり。  
   WebAPPから呼ばれるクエリについて作成経験あり。  
 - OpenAPI Specification  
   yaml形式、json形式、どちらも0から作成した経験あり。  
-  openapi.yml, openapi.json から OpenAPI Generator を利用してプログラムを自動生成した経験あり。  
-  - Swagger-UI  
+  openapi.yml , openapi.json から OpenAPI Generator を利用してプログラムを自動生成した経験あり。  
+  - Swagger-Editor
+  - Swagger-UI 
+  - Redoc 
+- GraphQL 
 
 ### ミドルウェア
 
@@ -104,7 +107,7 @@
 - Gitlab  
 - Github  
   
-いづれもSourcetreeを利用している。
+何れもSourcetreeを利用している。
 
 #### IDE/Editor
 
@@ -113,8 +116,9 @@
     個人で有償版を利用している。
 - Eclipse  
   しばらく使用していない。
-- Visual Studio Code
+- Visual Studio Code 
 - Atom
+- サクラエディタ
 
 #### 仮想化
 
