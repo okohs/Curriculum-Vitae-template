@@ -53,6 +53,7 @@
   - Struts
 - PHP
   - Laravel  
+    Eloquent を利用してWebAPPを改修できる。
 - HTML css  
   - BootStrap  
 - javascript / Typescript  
@@ -69,7 +70,9 @@
   - Swagger-Editor
   - Swagger-UI 
   - Redoc 
-- GraphQL 
+- GraphQL  
+  定義ファイルを読み書きできる。
+  - SpectaQL
 
 ### ミドルウェア
 
@@ -97,7 +100,7 @@
 - Heroku  
   趣味程度。
 - AWS  
-  趣味程度。
+  業務で利用している。
 
 ### 開発ツール
 
@@ -117,7 +120,6 @@
 - Eclipse  
   しばらく使用していない。
 - Visual Studio Code 
-- Atom
 - サクラエディタ
 
 #### 仮想化
