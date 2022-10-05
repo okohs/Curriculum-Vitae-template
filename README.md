@@ -34,7 +34,38 @@
 
 ## スキル
 
-### プログラミング言語・フレームワーク
+### データ記述言語
+
+- CSS  
+  - Bootstrap  
+- HTML  
+  - 基本的なHTML5の構文がわかる。
+- JSON  
+- Markdown  
+  - GithubのIssueやReadme.mdに代表されるファイルで利用している。
+- YAML  
+
+### 問い合わせ言語
+
+- SQL  
+  大量レコードから抽出作業を実施した経験あり。  
+  WebAPPから呼ばれるクエリについて作成経験あり。
+
+### 仕様記述言語
+
+- OpenAPI Specification  
+  yaml形式、json形式、どちらも0から作成した経験あり。  
+  openapi.yml , openapi.json から OpenAPI Generator を利用してプログラムを自動生成した経験あり。  
+  - Swagger-Editor  
+  - Swagger-UI  
+  - Redoc  
+- GraphQL  
+  定義ファイルを読み書きできる。  
+  GraphQL Code Generator などで生成したコードを用いて実装できる。
+  - SpectaQL  
+
+### プログラミング言語
+
 - Java  
   Optional, Stream API, lambda式 を読める&利用できる。  
   Gradle を使用して、WebAPPを0から構築できる。  
@@ -42,29 +73,19 @@
     Spring Boot Starter を利用してWebAPPを0から構築できる。  
     Spring Cloud については勉強中。  
   - Seaser2  
-  - Struts
+  - Struts  
+- Kotlin
+  Javaの資産を利用しつつ、Kotlinの構文を用いて開発できる。
+  - Spring  
 - PHP
   - Laravel  
-    Eloquent を利用してWebAPPを改修できる。
-- HTML css  
-  - BootStrap  
+    Eloquent を利用してWebAPPを改修できる。  
 - javascript / Typescript  
-  - jQuery
-  - Riot.js
-  - React
-  - Vue.js
-- SQL  
-  大量レコードから抽出作業を実施した経験あり。  
-  WebAPPから呼ばれるクエリについて作成経験あり。  
-- OpenAPI Specification  
-  yaml形式、json形式、どちらも0から作成した経験あり。  
-  openapi.yml , openapi.json から OpenAPI Generator を利用してプログラムを自動生成した経験あり。  
-  - Swagger-Editor
-  - Swagger-UI 
-  - Redoc 
-- GraphQL  
-  定義ファイルを読み書きできる。
-  - SpectaQL
+  - jQuery  
+  - Nuxt  
+  - React  
+  - Riot   
+  - Vue  
 
 ### ミドルウェア
 
@@ -88,11 +109,11 @@
 
 - on-premises  
   - CentOS  
-    業務で本番サーバーに直接sshし調査&操作した経験あり。
+    業務で本番サーバーに直接sshし調査&操作した経験あり。  
 - Heroku  
-  趣味程度。
+  趣味程度。  
 - AWS  
-  業務で利用している。
+  業務で利用している。  
 
 ### 開発ツール
 
@@ -106,13 +127,15 @@
 
 #### IDE/Editor
 
-- JetBrains
-  - InteliJ IDEA  
-    個人で有償版を利用している。
+- JetBrains  
+  - IntelliJ IDEA  
+    個人で有償版を利用している。 
+  - PhpStorm  
+    業務で利用している。
 - Eclipse  
-  しばらく使用していない。
-- Visual Studio Code 
-- サクラエディタ
+  しばらく使用していない。  
+- Visual Studio Code  
+- サクラエディタ  
 
 #### 仮想化
 
@@ -121,6 +144,13 @@
 #### コミュニケーション
 
 - Slack
+
+#### Task管理
+
+- Github Projects
+- Backlog
+- Jira
+- Redmine
 
 ## 職務経歴
 
