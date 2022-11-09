@@ -7,4 +7,7 @@ jobs:
     steps:
       - uses: technote-space/toc-generator@v4
         with:
+          TARGET_PATHS: README.md
+          FOLDING: true
           CREATE_PR: true
+          CHECK_ONLY_DEFAULT_BRANCH: true
