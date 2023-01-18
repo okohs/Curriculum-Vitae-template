@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "mervin.markdown-formatter",
+    "ms-ceintl.vscode-language-pack-ja",
+    "ms-vscode.live-server"
+  ]
+}
