@@ -6,15 +6,15 @@
 1. 自動生成箇所を修正する　[参考](https://github.com/mabubu0203/Curriculum-Vitae/wiki/Toc-Generatorの活用について)
 1. push後、PRが生成される
 
-# 職務経歴書
+## 職務経歴書
 
 <!-- START doctoc -->
 <!-- param::title::**目次**:: -->
 <!-- END doctoc -->
 
-## スキル
+### スキル
 
-### データ記述言語
+#### データ記述言語
 
 - CSS  
   - Bootstrap  
@@ -25,13 +25,13 @@
   - GithubのIssueやReadme.mdに代表されるファイルで利用している。  
 - YAML  
 
-### 問い合わせ言語
+#### 問い合わせ言語
 
 - SQL  
   大量レコードから抽出作業を実施した経験あり。  
   WebAPPから呼ばれるクエリについて作成経験あり。  
 
-### 仕様記述言語
+#### 仕様記述言語
 
 - OpenAPI Specification  
   yaml形式、json形式、どちらも0から作成した経験あり。  
@@ -42,7 +42,7 @@
   GraphQL Code Generator などで生成したコードを用いて実装できる。  
   - SpectaQL  
 
-### プログラミング言語
+#### プログラミング言語
 
 - Java  
   Optional, Stream API, lambda式 を読める&利用できる。  
@@ -61,9 +61,9 @@
   Bower , Gulp , Webpack  などでライブラリを管理してWebAPPを0から構築できる。  
   - jQuery , Nuxt , React , Riot , Vue  
 
-### ミドルウェア
+#### ミドルウェア
 
-#### データストア
+##### データストア
 
 - Oracle
 - MySql
@@ -73,13 +73,13 @@
 - Elasticsearch
 - Redis
 
-#### Web/Appサーバー
+##### Web/Appサーバー
 
 - Apache HTTP Server
 - Nginx
 - Tomcat
 
-### プラットフォーム
+#### プラットフォーム
 
 - on-premises  
   - CentOS  
@@ -89,9 +89,9 @@
 - AWS  
   業務で利用している。  
 
-### 開発ツール
+#### 開発ツール
 
-#### バージョン管理
+##### バージョン管理
 
 - SVN  
 - Gitlab  
@@ -99,7 +99,7 @@
   
 何れもSourcetreeを利用している。
 
-#### IDE/Editor
+##### IDE/Editor
 
 - JetBrains  
   - IntelliJ IDEA  
@@ -111,26 +111,26 @@
 - Visual Studio Code  
 - サクラエディタ  
 
-#### 仮想化
+##### 仮想化
 
 - Docker
 
-#### コミュニケーション
+##### コミュニケーション
 
 - Slack
 
-#### Task管理
+##### Task管理
 
 - Github Projects
 - Backlog
 - Jira
 - Redmine
 
-## 職務経歴
+### 職務経歴
 
 ↑新 ↓古
 
-### 2021/10 - 現在 : 株式会社LITALICO
+#### 2021/10 - 現在 : 株式会社LITALICO
 
 職務: Webアプリケーションエンジニア
 
@@ -139,7 +139,7 @@
   WIP
 </details>
 
-### 2019/04 - 2021/09 : 株式会社アイスタイル
+#### 2019/04 - 2021/09 : 株式会社アイスタイル
 
 職務: Webアプリケーションエンジニア
 
@@ -148,7 +148,7 @@
   WIP
 </details>
 
-### 2014/04 - 2019/03 : 株式会社バルテック
+#### 2014/04 - 2019/03 : 株式会社バルテック
 
 職務: Webアプリケーションエンジニア
 
@@ -157,7 +157,7 @@
   WIP
 </details>
 
-### 2008/04 - 2014/03 : 陸上自衛隊
+#### 2008/04 - 2014/03 : 陸上自衛隊
 
 職務: 国防
 
