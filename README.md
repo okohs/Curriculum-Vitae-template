@@ -2,9 +2,10 @@
 
 [TOC Generator](https://github.com/technote-space/toc-generator)をGithubActionsで利用しています。
 
-1. 自動生成箇所を手動で削除する
-1. 自動生成箇所を修正する　[参考](https://github.com/mabubu0203/Curriculum-Vitae/wiki/Toc-Generatorの活用について)
-1. push後、PRが生成される
+1. 自動生成箇所を手動で削除する  
+1. 自動生成箇所を修正する
+  [参考](https://github.com/mabubu0203/Curriculum-Vitae/wiki/Toc-Generatorの活用について)  
+1. push後、PRが生成される  
 
 ## 職務経歴書
 
@@ -44,7 +45,7 @@
 
 #### プログラミング言語
 
-- Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Java  
   Optional, Stream API, lambda式 を読める&利用できる。  
   Gradle を使用して、WebAPPを0から構築できる。  
   - Spring  
@@ -93,17 +94,17 @@
 
 ##### バージョン管理
 
+何れもSourcetreeを利用している。
+
 - SVN  
 - Gitlab  
 - Github  
-  
-何れもSourcetreeを利用している。
 
 ##### IDE/Editor
 
 - JetBrains  
   - IntelliJ IDEA  
-    個人で有償版を利用している。 
+    個人で有償版を利用している。
   - PhpStorm  
     業務で利用している。  
 - Eclipse  
@@ -117,7 +118,9 @@
 
 ##### コミュニケーション
 
-- Slack
+- Slack  
+- Gather  
+- SpatialChat  
 
 ##### Task管理
 
